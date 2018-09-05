@@ -14,6 +14,8 @@
 		84F15BF4213FE9E700BD6BBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F15BF2213FE9E700BD6BBF /* LaunchScreen.storyboard */; };
 		84F15BFF213FE9E700BD6BBF /* GitPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F15BFE213FE9E700BD6BBF /* GitPracticeTests.swift */; };
 		84F15C0A213FE9E700BD6BBF /* GitPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F15C09213FE9E700BD6BBF /* GitPracticeUITests.swift */; };
+		84F15C1A213FF43E00BD6BBF /* asdfasdfasfdasdf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F15C19213FF43E00BD6BBF /* asdfasdfasfdasdf.swift */; };
+		84F15C1C213FF44A00BD6BBF /* 123123.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F15C1B213FF44A00BD6BBF /* 123123.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		84F15C05213FE9E700BD6BBF /* GitPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F15C09213FE9E700BD6BBF /* GitPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitPracticeUITests.swift; sourceTree = "<group>"; };
 		84F15C0B213FE9E700BD6BBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84F15C19213FF43E00BD6BBF /* asdfasdfasfdasdf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdfasdfasfdasdf.swift; sourceTree = "<group>"; };
+		84F15C1B213FF44A00BD6BBF /* 123123.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 123123.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				84F15BF0213FE9E700BD6BBF /* Assets.xcassets */,
 				84F15BF2213FE9E700BD6BBF /* LaunchScreen.storyboard */,
 				84F15BF5213FE9E700BD6BBF /* Info.plist */,
+				84F15C19213FF43E00BD6BBF /* asdfasdfasfdasdf.swift */,
+				84F15C1B213FF44A00BD6BBF /* 123123.swift */,
 			);
 			path = GitPractice;
 			sourceTree = "<group>";
@@ -257,7 +263,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				84F15BEC213FE9E500BD6BBF /* ViewController.swift in Sources */,
+				84F15C1A213FF43E00BD6BBF /* asdfasdfasfdasdf.swift in Sources */,
 				84F15BEA213FE9E500BD6BBF /* AppDelegate.swift in Sources */,
+				84F15C1C213FF44A00BD6BBF /* 123123.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
